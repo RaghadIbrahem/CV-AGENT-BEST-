@@ -1,0 +1,36 @@
+# ملفات PyCharm
+.idea/
+*.iml
+
+# ملفات بايثون
+__pycache__/
+*.py[cod]
+*$py.class
+
+# بيئة افتراضية
+venv/
+env/
+ENV/
+
+# ملفات مؤقتة
+*.log
+*.sqlite3
+.DS_Store
+Thumbs.db
+# بيئة PyCharm
+.idea/
+*.iml
+
+# كاش بايثون
+__pycache__/
+*.pyc
+
+# قاعدة البيانات
+instance/
+*.db
+
+# ملفات التحمـيل
+uploads/
+
+# ملفات PDF (إن أردتِ تجاهلها)
+*.pdf
